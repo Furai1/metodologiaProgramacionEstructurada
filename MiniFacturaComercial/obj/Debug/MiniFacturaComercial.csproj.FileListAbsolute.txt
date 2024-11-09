@@ -1,0 +1,10 @@
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\bin\Debug\MiniFacturaComercial.exe.config
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\bin\Debug\MiniFacturaComercial.exe
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\bin\Debug\MiniFacturaComercial.pdb
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\obj\Debug\MiniFacturaComercial.csproj.AssemblyReference.cache
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\obj\Debug\MiniFacturaComercial.Form1.resources
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\obj\Debug\MiniFacturaComercial.Properties.Resources.resources
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\obj\Debug\MiniFacturaComercial.csproj.GenerateResource.cache
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\obj\Debug\MiniFacturaComercial.csproj.CoreCompileInputs.cache
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\obj\Debug\MiniFacturaComercial.exe
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\MiniFacturaComercial\obj\Debug\MiniFacturaComercial.pdb
